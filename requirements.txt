@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+pypdf
+bs4 
+langchain-text-splitters
+langchain-openai
+streamlit
+faiss-cpu
+openai
+huggingface
+PyPDF2
